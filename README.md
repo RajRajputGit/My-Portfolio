@@ -31,7 +31,7 @@ A modern, professional portfolio website designed for computer science students 
 Edit the following in `index.html`:
 - Replace `[Your Name]` in the header
 - Update the introduction paragraph
-- Add your actual resume path (currently points to `/Resume/Braj_Resume_2.pdf`)
+- Add your actual resume path (currently points to the Google Drive folder: `https://drive.google.com/drive/folders/1w9vK-3h2i9fsIXYKzkbg5fmezQYecsym?usp=drive_link`)
 - Update all placeholder text in sections
 - Update contact information
 
